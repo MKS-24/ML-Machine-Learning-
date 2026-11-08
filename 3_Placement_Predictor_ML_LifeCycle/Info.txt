@@ -1,0 +1,1 @@
+Simple Project for understanding , How ML is implement(flow) in a project.
